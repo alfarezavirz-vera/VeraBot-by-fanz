@@ -15,26 +15,25 @@ global.qtext = {
 
 /*============= Konfigurasi =============*/
 global.cfg = {
-    pairing: 962796121703 /* [ Nomor bot ] */,
-    code: "FANZBETA" /* [ Kode pairing mu ] */,
-    db: "fanz-db" /* [ Buat tarok database ] */,
+    pairing: 6282135288134 /* [ Nomor bot ] */,
+    code: "VERABETA" /* [ Kode pairing mu ] */,
+    db: "vera-db" /* [ Buat tarok database ] */,
     tz: "Asia/Makassar" /* [ Atur sesuai sama Daerah lu gua si wita] */,
     zone: "WITA",
     bot: {
-        name: "FanzWeA bot" /* [ Nama bot ] */,
+        name: "VeraWeA bot" /* [ Nama bot ] */,
         owner: [
-            "962796121703",
-            "6283899616999"
+            "6285133801810"
         ] /* [ Klo mau tambah tinggal [ ...03', '62x' ] ] */,
         version: global.pkg.version,
-        footer: "Fanz is My WeA bot" /* [ Tungau ] */,
+        footer: "Vera is My WeA bot" /* [ Tungau ] */,
         prefix: [":", "!", "#", "-"] /* [ Bisa di tambah ] */,
-        thumb: "https://github.com/Adzy-xyz.png"
+        thumb: "https://github.com/Alfarezavirz-vera.png"
     },
     ads: {
-    	title: "FanzWeA Bot",
-    	body: "Powered by Adzy",
-    	source: "https://nefu.life/adzy"
+    	title: "VeraWeA Bot",
+    	body: "Powered by Alfarzy",
+    	source: "https://me.alfarezoffc.my.id"
     },
     mess: {
         wait: "`[#]` Harap tunggu sebentar..." /* [ Pesan tunggu ] */,
@@ -55,7 +54,8 @@ global.cfg = {
     },
     apiKey: {
         ryhar: "p2pe75mrois182180i6y" /* [ buat naro macam macam apiKey taro di sini aja biar enakh ] */,
-        gemini: "AIzaSyAFZuYs9iu4lRrR_cWY8jelar9CUMyvL5o" /* [ Ambil di ai.google.studio katanya ] */
+        gemini: "AIzaSyAFZuYs9iu4lRrR_cWY8jelar9CUMyvL5o" /* [ Ambil di ai.google.studio katanya ] */,
+        vera: "Api_Alfarezzv"
     }
 };
 
